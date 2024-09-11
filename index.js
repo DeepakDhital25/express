@@ -7,5 +7,6 @@
  */
 
 'use strict';
+test
 
 module.exports = require('./lib/express');
